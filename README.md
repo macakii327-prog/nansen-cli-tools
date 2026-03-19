@@ -45,10 +45,10 @@ SM trade consensus detector — alerts when multiple whales converge on the same
 **What it detects:** Multi-whale convergence signals, consensus strength scoring.  
 **API calls:** ~3 per run
 
-## 🚀 Enhanced Tools (Contest Finals)
+## 🚀 Enhanced Tools (Finals Edition)
 
 ### 🔍 SM Alpha Scanner Enhanced
-Advanced divergence detection competing with other automated systems.
+Advanced divergence detection with intelligent signal processing.
 
 ```bash
 ./sm-alpha-enhanced.sh --webhook https://discord.com/... --min-flow 50000
@@ -81,7 +81,7 @@ Institutional-grade monitoring with real-time capabilities.
 ```
 
 **New features:**
-- ✅ **$20K+ Filtering** — Institutional focus (competing with AnthroAlert)
+- ✅ **$20K+ Filtering** — Institutional-grade trade analysis
 - ✅ **Real-time Monitoring** — Continuous 30-min scanning mode
 - ✅ **Advanced Consensus Scoring** — Multi-wallet convergence algorithm  
 - ✅ **Activity Heatmaps** — Cross-chain whale pattern visualization
