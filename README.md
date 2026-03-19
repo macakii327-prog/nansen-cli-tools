@@ -45,6 +45,47 @@ SM trade consensus detector — alerts when multiple whales converge on the same
 **What it detects:** Multi-whale convergence signals, consensus strength scoring.  
 **API calls:** ~3 per run
 
+## 🚀 Enhanced Tools (Contest Finals)
+
+### 🔍 SM Alpha Scanner Enhanced
+Advanced divergence detection competing with other automated systems.
+
+```bash
+./sm-alpha-enhanced.sh --webhook https://discord.com/... --min-flow 50000
+```
+
+**New features:**
+- ✅ **Price-Flow Divergence** — Detect classic alpha: SM buying during price weakness  
+- ✅ **Smart Alerts** — Threshold-based notifications for high-conviction signals
+- ✅ **Signal Scoring** — Quantified divergence strength algorithm
+- ✅ **Cross-Chain Sentiment** — Market-wide SM sentiment tracking
+
+### 📋 Token Due Diligence Enhanced  
+AI-powered investment analysis with automated recommendations.
+
+```bash
+./token-due-diligence-enhanced.sh 0x... --chain ethereum
+```
+
+**New features:**
+- ✅ **AI Investment Scoring** — 9 data points → unified score (0-100)
+- ✅ **Risk Assessment** — Automated red flag detection & risk levels
+- ✅ **Buy/Sell/Hold Recommendations** — Clear actionable investment guidance  
+- ✅ **Component Analysis** — Detailed scoring breakdown with explanations
+
+### 🐋 Whale Mirror Enhanced
+Institutional-grade monitoring with real-time capabilities.
+
+```bash
+./whale-mirror-enhanced.sh --monitor --min-usd 20000 --webhook https://...
+```
+
+**New features:**
+- ✅ **$20K+ Filtering** — Institutional focus (competing with AnthroAlert)
+- ✅ **Real-time Monitoring** — Continuous 30-min scanning mode
+- ✅ **Advanced Consensus Scoring** — Multi-wallet convergence algorithm  
+- ✅ **Activity Heatmaps** — Cross-chain whale pattern visualization
+
 ## Sample Output
 
 See [`reports/`](./reports/) for real analysis outputs generated during daily operations.
